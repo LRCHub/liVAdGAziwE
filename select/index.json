@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "35℃",
+  "base_artist": "Kinokoteikoku",
+  "createdAt": "2026-03-12T19:06:34.383656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "35 Heures",
+      "artist": "Sniper",
+      "has_synced": false,
+      "path": "select/01_35_Heures_Sniper.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "35 Minutes",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/02_35_Minutes_Moby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/03_34+35_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+      "artist": "Ariana Grande feat. Doja Cat & Megan Thee Stallion",
+      "has_synced": false,
+      "path": "select/04_34+35_Remix_(feat._Doja_Cat,_Megan_Thee_Stallion)_-_Remix_Ariana_Grande_feat._Doja_Cat_&_Megan_Thee_Stallion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "34+35 (remix)",
+      "artist": "Ariana Grande feat. Doja Cat & Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/05_34+35_(remix)_Ariana_Grande_feat._Doja_Cat_&_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "4.35 In the Morning",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/06_4.35_In_the_Morning_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4.35 In the Morning (Original Version)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/07_4.35_In_the_Morning_(Original_Version)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dive - 3.35 Edit",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/08_Dive_-_3.35_Edit_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dive (3.35 Edit)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/09_Dive_(3.35_Edit)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep It Low (3:35 Edit)",
+      "artist": "The Hundred In the Hands",
+      "has_synced": false,
+      "path": "select/10_Keep_It_Low_(3_35_Edit)_The_Hundred_In_the_Hands.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rainy Day Women #12 & 35",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/11_Rainy_Day_Women__12_&_35_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rainy Day Women #12 & 35",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/12_Rainy_Day_Women__12_&_35_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rainy Day Women #12 & 35",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/13_Rainy_Day_Women__12_&_35_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Psalm 35",
+      "artist": "Headie One",
+      "has_synced": true,
+      "path": "select/14_Psalm_35_Headie_One.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "4-35 in the Morning (Talkin' Blues mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/15_4-35_in_the_Morning_(Talkin'_Blues_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fiorellino#12&35",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/16_Fiorellino_12&35_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fiorellino #12&35",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/17_Fiorellino__12&35_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "35℃",
+      "artist": "きのこ帝国",
+      "has_synced": false,
+      "path": "select/pl_01_35°C_きのこ帝国.txt"
+    }
+  ]
+}
